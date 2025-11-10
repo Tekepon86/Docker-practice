@@ -9,8 +9,8 @@ Dockerを使ったことないので、慣れるためにこのプロジェク�
 - マルチビルド
 
 #参考にした書籍およびツール
-- Docker&仮想サーバ_完全入門
-- Dockerを基本から学ぶ
+- Docker&仮想サーバ_完全入門(Kindle)
+- Dockerを基本から学ぶ(Kindle)
 - Chatgpt/Claude
 
 #使用ツール
